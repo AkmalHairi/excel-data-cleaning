@@ -18,7 +18,7 @@ This mini project covers:
 
 | File | Description |
 |------|-------------|
-| `Week1_Day1_PivotReport.xlsx` | Pivot tables and basic analysis of sample sales dataset |
+| `Week1_Day1_PivotReport.xlsx` | ![pivot table preview](week1_day1_PivotPractice.png) |
 
 ---
 
