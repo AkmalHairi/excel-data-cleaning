@@ -49,9 +49,9 @@ Today, I focused on:
 📁 Files Included
 | File | Description |
 |------|-------------|
-| `employee_table.sql` |	Contains the table creation and sample data insert statements.
-| `select_queries.sql` |	SQL queries to filter and sort data based on specific conditions.
-| `update_queries.sql` |	SQL query to update an employee's data.
+| `employee_table.sql` |	![Contains the table creation and sample data insert statements.](week1-day2-sql-basic.zip) |
+| `select_queries.sql` |	SQL queries to filter and sort data based on specific conditions.(follow the link) |
+| `update_queries.sql` |	SQL query to update an employee's data.(follow the link) |
 
 ---
 🧠 Skills Practiced
