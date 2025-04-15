@@ -31,22 +31,22 @@ This mini project covers:
 
 ---
 
-🧑‍💻 Data Analyst Journey - Day 2: Oracle SQL Basics
+## 🧑‍💻 Data Analyst Journey - Day 2: Oracle SQL Basics
 Welcome to Day 2 of my Data Analyst learning journey. In this session, I worked on getting hands-on with Oracle SQL.
 
 ---
 
-📊 Project Overview
+## 📊 Project Overview
 Today, I focused on:
--Creating tables with data types in Oracle SQL
--Using the SELECT statement with WHERE, AND, OR, and NOT
--Sorting results with ORDER BY
--Updating records with the UPDATE statement
--Filtering data based on conditions such as salary and department
+- Creating tables with data types in Oracle SQL
+- Using the SELECT statement with WHERE, AND, OR, and NOT
+- Sorting results with ORDER BY
+- Updating records with the UPDATE statement
+- Filtering data based on conditions such as salary and department
 
 ---
 
-📁 Files Included
+## 📁 Files Included
 | File | Description |
 |------|-------------|
 | `employee_table.sql` |	![Contains the table creation and sample data insert statements.](week1-day2-sql-basic.zip) |
@@ -54,11 +54,11 @@ Today, I focused on:
 | `update_queries.sql` |	SQL query to update an employee's data.(follow the link) |
 
 ---
-🧠 Skills Practiced
+## 🧠 Skills Practiced
 Data querying with SELECT
--Filtering and sorting data with WHERE and ORDER BY
--Updating records using the UPDATE statement
--Data manipulation and logical operators like AND, OR, NOT
+- Filtering and sorting data with WHERE and ORDER BY
+- Updating records using the UPDATE statement
+- Data manipulation and logical operators like AND, OR, NOT
 
 ---
 
